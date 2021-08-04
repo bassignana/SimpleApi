@@ -94,8 +94,8 @@ def insertVaribleIntoTable(idb ,published ,author,title,first_sentence):
             sqliteConnection.close()
             print("The SQLite connection is closed")
 
-insertVaribleIntoTable(2, 'Joe', 'joe@pynative.com', '2019-05-19', 9000)
-insertVaribleIntoTable(3, 'Ben', 'ben@pynative.com', '2019-02-23', 9500)
+#insertVaribleIntoTable(2, 'Joe', 'joe@pynative.com', '2019-05-19', 9000)
+#insertVaribleIntoTable(3, 'Ben', 'ben@pynative.com', '2019-02-23', 9500)
 
 
 #codice del post method https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
